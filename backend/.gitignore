@@ -1,0 +1,15 @@
+# general
+*.iml
+**/*.iml
+*.class
+**/*.class
+**/.idea/*
+!.idea/runConfigurations
+target
+**/*/target
+artifacts
+
+**/node_modules
+.editorconfig
+settings.ts
+
